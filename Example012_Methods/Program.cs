@@ -54,4 +54,4 @@ string Method4(int count, string text)
 }
 
 string res = Method4(1000, "$");
-Console.WriteLine(res);
+// Отключён !!! Console.WriteLine(res);
